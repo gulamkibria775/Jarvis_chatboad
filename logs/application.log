@@ -1,0 +1,111 @@
+[ 2025-11-30 16:48:42,882 ] comtypes.client._code_cache - INFO - Could not import comtypes.gen, trying to create it.
+[ 2025-11-30 16:48:42,882 ] comtypes.client._code_cache - INFO - Created comtypes.gen directory: 'C:\Users\Asus\Miniconda3\envs\jarvis\Lib\site-packages\comtypes\gen'
+[ 2025-11-30 16:48:42,882 ] comtypes.client._code_cache - INFO - Writing __init__.py file: 'C:\Users\Asus\Miniconda3\envs\jarvis\Lib\site-packages\comtypes\gen\__init__.py'
+[ 2025-11-30 16:48:42,886 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\Miniconda3\envs\jarvis\Lib\site-packages\comtypes\gen'
+[ 2025-11-30 16:48:42,919 ] comtypes.client._generate - INFO - Could not import comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4: No module named 'comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4'
+[ 2025-11-30 16:48:43,026 ] comtypes.client._generate - INFO - # Generating comtypes.gen._C866CA3A_32F7_11D2_9602_00C04F8EE628_0_5_4
+[ 2025-11-30 16:48:43,119 ] comtypes.client._generate - INFO - # Generating comtypes.gen.SpeechLib
+[ 2025-11-30 16:48:43,129 ] comtypes.client._generate - INFO - Could not import comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0: No module named 'comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0'
+[ 2025-11-30 16:48:43,130 ] comtypes.client._generate - INFO - # Generating comtypes.gen._00020430_0000_0000_C000_000000000046_0_2_0
+[ 2025-11-30 16:48:43,137 ] comtypes.client._generate - INFO - # Generating comtypes.gen.stdole
+[ 2025-11-30 16:49:01,824 ] root - INFO - 
+[ 2025-11-30 16:49:05,569 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:49:14,031 ] root - INFO - 
+[ 2025-11-30 16:49:17,732 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:49:29,394 ] root - INFO - 
+[ 2025-11-30 16:49:33,111 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:49:37,482 ] root - INFO - 
+[ 2025-11-30 16:49:41,197 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:49:50,938 ] root - INFO - 
+[ 2025-11-30 16:49:54,666 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:49:59,210 ] root - INFO - 
+[ 2025-11-30 16:50:02,925 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:50:09,844 ] root - INFO - 
+[ 2025-11-30 16:50:13,425 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:50:17,848 ] root - INFO - 
+[ 2025-11-30 16:50:21,371 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:50:27,966 ] root - INFO - 
+[ 2025-11-30 16:50:31,478 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:50:38,555 ] root - INFO - User asked about assistant's well-being.
+[ 2025-11-30 16:50:47,622 ] root - INFO - User requested to open Google.
+[ 2025-11-30 16:50:58,296 ] root - INFO - 
+[ 2025-11-30 16:51:01,830 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:51:13,600 ] root - INFO - User requested to search on YouTube.
+[ 2025-11-30 16:51:20,419 ] root - INFO - 
+[ 2025-11-30 16:51:23,948 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:51:32,255 ] root - INFO - Playing music: desktop.ini
+[ 2025-11-30 16:51:37,408 ] root - INFO - 
+[ 2025-11-30 16:51:40,930 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:51:44,282 ] root - INFO - 
+[ 2025-11-30 16:51:47,793 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:51:53,463 ] root - INFO - User requested to open Calculator.
+[ 2025-11-30 16:51:57,338 ] root - INFO - 
+[ 2025-11-30 16:52:00,845 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:52:06,020 ] root - INFO - 
+[ 2025-11-30 16:52:09,537 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:52:16,414 ] root - INFO - User requested to open Command Prompt.
+[ 2025-11-30 16:52:20,262 ] root - INFO - 
+[ 2025-11-30 16:52:23,784 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:52:27,678 ] root - INFO - 
+[ 2025-11-30 16:52:31,218 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:52:43,611 ] root - INFO - User requested to open Command Prompt.
+[ 2025-11-30 16:53:00,286 ] root - INFO - 
+[ 2025-11-30 16:53:03,804 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:53:09,208 ] root - INFO - 
+[ 2025-11-30 16:53:12,737 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:53:17,465 ] root - INFO - 
+[ 2025-11-30 16:53:20,973 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:53:25,216 ] root - INFO - 
+[ 2025-11-30 16:53:28,764 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:53:35,699 ] root - INFO - 
+[ 2025-11-30 16:53:39,302 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:53:56,362 ] root - INFO - 
+[ 2025-11-30 16:53:59,850 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:54:14,752 ] root - INFO - 
+[ 2025-11-30 16:54:18,329 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:54:28,455 ] root - INFO - 
+[ 2025-11-30 16:54:31,983 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:54:38,872 ] root - INFO - 
+[ 2025-11-30 16:54:42,361 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:54:51,687 ] root - INFO - 
+[ 2025-11-30 16:54:55,461 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:54:59,137 ] root - INFO - 
+[ 2025-11-30 16:55:02,948 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:55:10,049 ] root - INFO - 
+[ 2025-11-30 16:55:13,558 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:55:21,117 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:55:26,416 ] root - INFO - 
+[ 2025-11-30 16:55:29,922 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:55:36,383 ] root - INFO - 
+[ 2025-11-30 16:55:39,897 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:55:49,934 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:55:59,757 ] root - INFO - 
+[ 2025-11-30 16:56:03,276 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:56:12,041 ] root - INFO - 
+[ 2025-11-30 16:56:15,559 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:56:25,592 ] root - INFO - 
+[ 2025-11-30 16:56:29,097 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:56:34,651 ] root - INFO - 
+[ 2025-11-30 16:56:38,158 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:59:17,483 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\Miniconda3\\envs\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 2025-11-30 16:59:17,517 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\Miniconda3\envs\jarvis\Lib\site-packages\comtypes\gen'
+[ 2025-11-30 16:59:30,775 ] root - INFO - 
+[ 2025-11-30 16:59:34,294 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 16:59:45,062 ] root - INFO - Playing music: hype-drill-music-438398.mp3
+[ 2025-11-30 16:59:57,880 ] root - INFO - 
+[ 2025-11-30 17:00:01,399 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 17:04:00,170 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\Miniconda3\\envs\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 2025-11-30 17:04:00,172 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\Miniconda3\envs\jarvis\Lib\site-packages\comtypes\gen'
+[ 2025-11-30 17:08:19,916 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\Miniconda3\\envs\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 2025-11-30 17:08:19,916 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\Miniconda3\envs\jarvis\Lib\site-packages\comtypes\gen'
+[ 2025-11-30 17:12:57,017 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\Miniconda3\\envs\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 2025-11-30 17:12:57,017 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\Miniconda3\envs\jarvis\Lib\site-packages\comtypes\gen'
+[ 2025-11-30 17:13:11,360 ] root - INFO - 
+[ 2025-11-30 17:13:14,896 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 17:13:18,463 ] root - INFO - 
+[ 2025-11-30 17:13:21,971 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 17:13:28,337 ] root - INFO - User requested to open Calculator.
+[ 2025-11-30 17:13:33,435 ] root - INFO - 
+[ 2025-11-30 17:13:36,943 ] root - INFO - User asked for an unsupported command.
+[ 2025-11-30 17:13:47,405 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\Miniconda3\\envs\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 2025-11-30 17:13:47,405 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\Miniconda3\envs\jarvis\Lib\site-packages\comtypes\gen'
