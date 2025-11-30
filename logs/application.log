@@ -109,3 +109,30 @@
 [ 2025-11-30 17:13:36,943 ] root - INFO - User asked for an unsupported command.
 [ 2025-11-30 17:13:47,405 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\Miniconda3\\envs\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
 [ 2025-11-30 17:13:47,405 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\Miniconda3\envs\jarvis\Lib\site-packages\comtypes\gen'
+[ 2025-11-30 17:37:41,987 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\Miniconda3\\envs\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 2025-11-30 17:37:41,987 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\Miniconda3\envs\jarvis\Lib\site-packages\comtypes\gen'
+[ 2025-11-30 17:37:53,832 ] root - INFO - recognition connection failed: [Errno 11001] getaddrinfo failed
+[ 2025-11-30 17:46:40,010 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\Miniconda3\\envs\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 2025-11-30 17:46:41,644 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\Miniconda3\envs\jarvis\Lib\site-packages\comtypes\gen'
+[ 2025-11-30 17:47:04,750 ] root - INFO - User requested to open Google.
+[ 2025-11-30 17:47:13,721 ] root - INFO - 
+[ 2025-11-30 17:47:21,521 ] root - INFO - User asked for others question
+[ 2025-11-30 17:47:36,979 ] root - INFO - Playing music: groovy-vibe-427121.mp3
+[ 2025-11-30 17:47:44,735 ] root - INFO - 
+[ 2025-11-30 17:47:50,898 ] root - INFO - User asked for others question
+[ 2025-11-30 17:48:02,785 ] root - INFO - User asked for others question
+[ 2025-11-30 17:48:25,559 ] root - INFO - User asked for others question
+[ 2025-11-30 17:48:30,184 ] root - INFO - 
+[ 2025-11-30 17:48:38,846 ] root - INFO - User asked for others question
+[ 2025-11-30 17:49:23,350 ] root - INFO - User requested information from Wikipedia.
+[ 2025-11-30 17:50:05,410 ] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\Miniconda3\\envs\\jarvis\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+[ 2025-11-30 17:50:05,410 ] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\Miniconda3\envs\jarvis\Lib\site-packages\comtypes\gen'
+[ 2025-11-30 17:50:24,123 ] root - INFO - User asked for current time.
+[ 2025-11-30 17:50:31,735 ] root - INFO - User requested to open Calculator.
+[ 2025-11-30 17:51:08,614 ] root - INFO - User requested information from Wikipedia.
+[ 2025-11-30 17:51:14,596 ] root - INFO - 
+[ 2025-11-30 17:51:21,268 ] root - INFO - User asked for others question
+[ 2025-11-30 17:51:28,485 ] root - INFO - User asked for others question
+[ 2025-11-30 17:51:33,995 ] root - INFO - 
+[ 2025-11-30 17:51:42,160 ] root - INFO - User asked for others question
+[ 2025-11-30 17:51:58,410 ] root - INFO - User exited the program.
